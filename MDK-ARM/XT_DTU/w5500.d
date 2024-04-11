@@ -1,0 +1,10 @@
+xt_dtu\w5500.o: ..\Ethernet\W5500\w5500.c
+xt_dtu\w5500.o: ..\Ethernet\W5500\w5500.h
+xt_dtu\w5500.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+xt_dtu\w5500.o: ../Core/Inc/wizchip_conf.h
+xt_dtu\w5500.o: ../Core/Inc/w5500.h
+xt_dtu\w5500.o: ../APP/utility.h
+xt_dtu\w5500.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
+xt_dtu\w5500.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+xt_dtu\w5500.o: F:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+xt_dtu\w5500.o: ../APP/types.h

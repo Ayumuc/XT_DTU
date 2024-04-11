@@ -1,0 +1,10 @@
+xt_dtu\sockutil.o: ..\DHCP\sockutil.c
+xt_dtu\sockutil.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
+xt_dtu\sockutil.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+xt_dtu\sockutil.o: ..\DHCP\types.h
+xt_dtu\sockutil.o: ../Core/Inc/w5500.h
+xt_dtu\sockutil.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+xt_dtu\sockutil.o: ../Core/Inc/wizchip_conf.h
+xt_dtu\sockutil.o: ../Core/Inc/w5500.h
+xt_dtu\sockutil.o: ..\DHCP\util.h
+xt_dtu\sockutil.o: ..\DHCP\sockutil.h

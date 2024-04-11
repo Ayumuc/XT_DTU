@@ -1,0 +1,11 @@
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTPacket.c
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\StackTrace.h
+xt_dtu\mqttpacket.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTPacket.h
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTConnect.h
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTPublish.h
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTSubscribe.h
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTUnsubscribe.h
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTFormat.h
+xt_dtu\mqttpacket.o: ..\Internet\MQTT\MQTTPacket\src\MQTTPacket.h
+xt_dtu\mqttpacket.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h

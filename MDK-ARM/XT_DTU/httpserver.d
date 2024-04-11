@@ -1,0 +1,14 @@
+xt_dtu\httpserver.o: ..\Internet\httpServer\httpServer.c
+xt_dtu\httpserver.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
+xt_dtu\httpserver.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+xt_dtu\httpserver.o: F:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+xt_dtu\httpserver.o: ../Core/Inc/socket.h
+xt_dtu\httpserver.o: ../Core/Inc/wizchip_conf.h
+xt_dtu\httpserver.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+xt_dtu\httpserver.o: ../Core/Inc/w5500.h
+xt_dtu\httpserver.o: ../Core/Inc/wizchip_conf.h
+xt_dtu\httpserver.o: ..\Internet\httpServer\httpServer.h
+xt_dtu\httpserver.o: ..\Internet\httpServer\httpParser.h
+xt_dtu\httpserver.o: ..\Internet\httpServer\httpUtil.h
+xt_dtu\httpserver.o: ..\Internet\httpServer\httpServer.h
+xt_dtu\httpserver.o: ..\Internet\httpServer\httpParser.h

@@ -1,0 +1,9 @@
+xt_dtu\cjson.o: ..\CJSON\cJSON.c
+xt_dtu\cjson.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
+xt_dtu\cjson.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
+xt_dtu\cjson.o: F:\keil\ARM\ARMCC\Bin\..\include\math.h
+xt_dtu\cjson.o: F:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+xt_dtu\cjson.o: F:\keil\ARM\ARMCC\Bin\..\include\float.h
+xt_dtu\cjson.o: F:\keil\ARM\ARMCC\Bin\..\include\limits.h
+xt_dtu\cjson.o: F:\keil\ARM\ARMCC\Bin\..\include\ctype.h
+xt_dtu\cjson.o: ..\CJSON\cJSON.h

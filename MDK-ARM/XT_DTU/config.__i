@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc -I ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I ../Drivers/CMSIS/Include -I ..\Ethernet -I ..\Ethernet\W5500 -I ..\Config
+-I.\RTE\_XT_DTU
+-IF:\keil\ARM\CMSIS\5.9.0\CMSIS\Core\Include
+-IF:\keil\GigaDevice\GD32F4xx_DFP\3.0.3\Device\F4XX\Include
+-D__UVISION_VERSION="538" -D_RTE_ -DGD32F407 -D_RTE_ -DUSE_HAL_DRIVER -DSTM32F407xx
+-o .\xt_dtu\config.o --omf_browse .\xt_dtu\config.crf --depend .\xt_dtu\config.d "..\Config\config.c"
